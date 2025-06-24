@@ -23,10 +23,10 @@ This project is a single Python file and does not require complex setup.
 
 Clone the repository (or copy the code):
 
-git clone https://github.com/your-username/your-blockchain-repo-name.git
-cd your-blockchain-repo-name
+git clone https://github.com/1SyedAhad/python-simple-blockchain.git
+cd python-simple-blockchain
 
-(Replace your-username/your-blockchain-repo-name.git with your actual repository URL.)
+(https://github.com/1SyedAhad/python-simple-blockchain)
 
 Ensure you have Python installed:
 This code is compatible with Python 3.x. If you don't have Python, download it from python.org.
